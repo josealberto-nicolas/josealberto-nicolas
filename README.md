@@ -1,6 +1,6 @@
 ## Hola 👋
 
-Soy José Alberto Nicolás y actualmente estoy impartiendo docencia como Profesor de Secundaria y Formación Profesional de Informática en los ciclos de SMR y DAW, los módulos de Redes Locales y Desarrollo de Aplicaciones Web en entorno Servidor, en el IES Los Albares de Cieza, Murcia. 
+Soy José Alberto Nicolás y actualmente estoy impartiendo docencia como Profesor de Secundaria y Formación Profesional de Informática en los ciclos de SMR y DAW, los módulos de Seguridad Informática, Programación y Entornos de Desarrollo, en el IES José Planes de Espinardo, Murcia. 
 
 <!--
 **josealberto-nicolas/josealberto-nicolas** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
